@@ -22,7 +22,7 @@ Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ng�
 ## Cài đặt và chạy dự án
 
 1. **Clone Repository**: Sao chép (clone) dự án từ kho chứa (repository) GitHub về máy tính của bạn.
-   git clone [https://github.com/yourusername/your-project.git](https://github.com/thieuhoang2002/WEB2-PROJECT-VUTRUDONGHO.git)
+   git clone [https://github.com/baongne/web2SGU.git](https://github.com/baongne/web2SGU)
 2. **Truy cập server MySQL với XAMPP**
    Cài đặt XAMPP (hoặc tương tự) trên máy tính của bạn nếu bạn chưa có.
    Khởi động XAMPP và đảm bảo rằng MySQL Server đang hoạt động.
