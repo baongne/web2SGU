@@ -1,10 +1,10 @@
 - Đăng nhập, đăng ký
-- Thông tin tài khoản 
+- Thông tin tài khoản (Bảo, Huy)
 - Trang chủ
 
-- Trang Admin, thống kê
+- Trang Admin, thống kê (Nguyên, Anh)
 - Database		
 
 - Trang sản phẩm
-- Giỏ hàng, đặt hàng     
+- Giỏ hàng, đặt hàng               (Anh, Nguyên, Huy, Bảo)
 - Phương thức thanh toán, giao hàng
