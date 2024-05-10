@@ -35,6 +35,7 @@ Dự án được xây dựng bằng sử dụng các công nghệ và ngôn ng�
    Nhấp vào tab "Import" và chọn tệp "vutrudongho.sql" để import dữ liệu vào cơ sở dữ liệu.
 5. **Bật XAMPP và khởi chạy dự án**
    Khởi động lại XAMPP và đảm bảo rằng cả Apache và MySQL đều đang chạy.
-   Mở trình duyệt và gõ http://localhost:3000 (hoặc URL tương ứng điều hướng tới project) để chạy dự án.
+   Mở trình duyệt và gõ [http://localhost/WEB2_SGU_DongHo/vutrudongho/index.php](http://localhost/WEB2_SGU_DongHo/vutrudongho/index.php) để chạy dự án với trang chủ.
+   Mở trình duyệt và gõ [http://localhost/WEB2_SGU_DongHo/vutrudongho/index.php](http://localhost/WEB2_SGU_DongHo/vutrudongho/admin-login.php?enableQuery) để chạy dự án với trang admin.
 
 Chúc mừng, bạn đã cài đặt và chạy dự án thành công trên máy tính của mình!
