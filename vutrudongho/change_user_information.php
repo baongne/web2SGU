@@ -132,7 +132,7 @@ require_once('lib_session.php');
             </div>
           </div>
           <div id="edit_address_user">
-            <div>
+            <!-- <div>
               <p class="LabelMedium" style="margin-top: 30px;margin-bottom: 4px;">Tỉnh/Thành phố (*)</p>
               <select class="LabelMedium" id="city" name="tinh" style="width:332px; height:36px; border-style: outset;margin-bottom: 12px; border: 1px solid #674FA3; border-radius: 8px;">
                 <option value="<?php echo $_SESSION['current_province'] ?>" selected><?php echo $_SESSION['current_province'] ?></option>
@@ -150,9 +150,9 @@ require_once('lib_session.php');
                 <option value="<?php echo $_SESSION['current_ward'] ?>" selected><?php echo $_SESSION['current_ward'] ?>
                 </option>
               </select>
-            </div>
+            </div> -->
             <div>
-              <p class="LabelMedium" style="margin-bottom: 4px;">Địa chỉ nhận hàng (*)</p>
+              <p class="LabelMedium" style="margin-top: 30px;">Địa chỉ nhận hàng (*)</p>
               <input class="LabelMedium" name="diaChiNha" type="text" style="padding-left: 6px;width:332px; height:36px; border-style: outset;margin-bottom: 34px; border: 1px solid #674FA3; border-radius: 8px;" value="<?php echo $_SESSION['current_houseRoadAddress'] ?>">
             </div>
             <div style="width: 332px; display:flex;justify-content: center; padding: 0px 24px;">
